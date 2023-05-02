@@ -1,2 +1,2 @@
-group_token = 'vk1.a.xfJsBadDhmR618GxTItbTEXHYOHBSl08lAGOf9AyOl4nUi0Tl6pi1WOyhuWzjLd1GtacRv-BWUO9y6RvYZOXoWRijxaZbX7DTFt5Y6bnnp_dncmj8NMze9oOB5ti1VY9-_tVwOBUqo-kYIpHS31W0OF-Z2bz4-I1bwAzNQ5WEp9XqmbtmgJNBnJ9FYZOc4aLO6tJdduUggVnxrPOglV_iw'
-user_token = 'vk1.a.wZC6ducGyvL4ykdLf3ix_ZQD3SG9Ueq-Ushr80vwe8jo_wU_ch26wJ2449fQj4j0FSrCJ6zr4SO7tDbDTYFvaP-VvBkkX0xnyclGYJrun5QgcBnNBDadMp6EtJEKZ5KXnJJUTQTuwjv-CEXQRgVkgAPDKcCMsqTV1Zv8EpSVWlW9GgWXdtgw_FPbBB7fkHtq'
+group_token = ""
+user_token = ""
